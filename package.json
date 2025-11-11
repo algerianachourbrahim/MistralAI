@@ -4,7 +4,25 @@
   "private": true,
   "dependencies": {
     "@mistralai/mistralai": "^1.10.0",
+    "body-parser": "^2.2.0",
     "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
     "express": "^5.1.0"
-  }
+  },
+  "description": "[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/algerianachourbrahim/MistralAI)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+
+
+  
+
+        
+
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
