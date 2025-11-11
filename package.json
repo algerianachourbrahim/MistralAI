@@ -3,6 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@mistralai/mistralai": "^1.10.0"
+    "@mistralai/mistralai": "^1.10.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
   }
 }
